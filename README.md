@@ -20,9 +20,3 @@ This project is a simple calculator created using Bash scripts.
 - `subtraction.sh`
 - `multiplication.sh`
 - `division.sh`
-
-## Run a Script
-
-```bash
-chmod +x addition.sh
-./addition.sh
